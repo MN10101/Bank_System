@@ -28,7 +28,7 @@ Thrown when a withdrawal exceeds the available balance.
 2. **Enter Account Details:**
 - Input your account number and PIN when prompted.
 
-3.**Select Operation:**
+3. **Select Operation:**
 - Choose between withdrawing or depositing funds.
 - Follow the instructions provided by the program.
 
