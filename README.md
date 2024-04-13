@@ -49,6 +49,10 @@ Thrown when a withdrawal exceeds the available balance.
 - **Exception Handling:**
 - The program catches and handles custom exceptions to provide informative error messages.
 
+  ## Author
+
+- Mahmoud Najmeh
+
 ## Example
 ```java
 public class BankingSystem {
